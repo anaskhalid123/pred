@@ -1,0 +1,32 @@
+includes :
+post_project_v1.py
+post_project_v1.ipynb
+
+
+--- .sav files are pickle files , each has fiited model to trained
+
+python version should be greater than 3.0
+
+# if you have jupyter note book than open the post_project_v1.ipynb and select run all
+#if you have python than run python post_project_v1.py command 
+
+
+This program is for dataset that is given :
+This program predicts the next day by 2018-06-30 this this input date
+
+Predictions :
+
+-predicting best 5 hours in next 3 days
+-predicting 5 days for the current month
+-predicitng next week for current month
+
+Insights :
+
+- findind over all most running sector
+- finding most suitable contetn of text over all
+- finding most content lenght sector wise ---- you can input different sectors to check answers in line 69 jupyter
+- finding best content length with sector and month wise ---- you can input different sectors and month to check answers in line 78 jupyter
+- findning best sector monthly wise ---- you can input different  month to check answers in line 81 jupyter
+- findning best sector different day wise ---- you can input different  day to check answers in line 85 jupyter
+
+
